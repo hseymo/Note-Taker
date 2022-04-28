@@ -1,20 +1,19 @@
 # **Note Taker**
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
+![Badge](https://img.shields.io/badge/npm-v 8.5.0-red)
 
 ## **Table of Contents**
 ---
-- [**Note Taker**](#note-taker)
-  - [## **Table of Contents**](#-table-of-contents)
-  - [## **License**](#-license)
-  - [## **Installation**](#-installation)
-  - [## **Packages**](#-packages)
-  - [## **Description**](#-description)
-  - [## **Usage**](#-usage)
-  - [### **Screenshots**](#-screenshots)
-  - [## **Contributing**](#-contributing)
-  - [## **Tests**](#-tests)
-  - [## **Questions?**](#-questions)
+  - [License](#license)
+  - [Installation](#installation)
+  - [Packages](#packages)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Screenshots](#screenshots)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions?](#questions)
 
 <br>
 
@@ -80,7 +79,7 @@ Notes page <br>
 
 ## **Contributing** 
 ---
-Contribute as you wish. Please contact me with questions. Directions for future development include modifying existing notes with HTML put requests. Additionally tests may be developed.
+This project is my own work with the help and starter code from the University of Washington Web Development Bootcamp. Contribute as you wish. Please contact me with questions. Directions for future development include modifying existing notes with HTML put requests. Additionally tests may be developed.
 
 <br>
 
