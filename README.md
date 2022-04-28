@@ -1,7 +1,7 @@
 # **Note Taker**
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
-![Badge](https://img.shields.io/badge/npm-v 8.5.0-red)
+![Badge](https://img.shields.io/badge/npm-v8.5.0-red)
 
 ## **Table of Contents**
 ---
