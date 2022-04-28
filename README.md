@@ -1,4 +1,4 @@
-# **Note Taker**
+# [**Note Taker**](https://whispering-springs-36995.herokuapp.com/)
 
 ![Badge](https://img.shields.io/badge/license-MIT-blue)
 ![Badge](https://img.shields.io/badge/npm-v8.5.0-red)
@@ -12,7 +12,6 @@
   - [Usage](#usage)
   - [Screenshots](#screenshots)
   - [Contributing](#contributing)
-  - [Tests](#tests)
   - [Questions?](#questions)
 
 <br>
@@ -20,8 +19,6 @@
 ## **License** 
 ---
 [MIT License](./LICENSE) <br>
-
-MIT License
 
 Copyright (c) 2022 Haley Seymour
 
@@ -48,13 +45,31 @@ SOFTWARE.
 
 ## **Installation** 
 ---
-To install this project, start by forking this repository on Github. Clone this project to your machine by using the "git clone + URL" command. Open the project with your favorite text editor, like VS Code (in your terminal, first type "cd foldername" then "code ."). This project includes a package.json file that specifies dependencies for this project, so be sure to run "npm install". Specifically, this project relies on express and uuid npm packages.
+To install this project: 
+1. Start by forking this repository on Github. 
+2. Clone this project to your machine by using the "git clone + URL" command. 
+3. Open the project with your favorite text editor, like VS Code (in your terminal, first type "cd foldername" then "code ."). 
+4. Install Node.js from their website, if you have not already. Here are some additional [instructions](https://coding-boot-camp.github.io/full-stack/nodejs/how-to-install-nodejs).
+5. This project includes a package.json file that specifies dependencies for this project, so be sure to run "npm install". This will install the packages specified in the next section. 
 
 <br>
 
 ## **Packages** 
 ---
-Node.js: Express, UUID. 
+General Technologies: 
+- HTML
+- CSS
+- Javascript
+- Node.js
+- Heroku
+- Git
+
+NPM Packages
+- express
+- fs 
+- router 
+- path
+- UUID
 
 <br>
 
@@ -67,25 +82,19 @@ Please click this [link](https://whispering-springs-36995.herokuapp.com/) to vie
 ---
 To use the front-end app, click the "Get Started" button from the home screen. Enter a new note title and text (both are required to save a note). Click the floppy-disk icon to save the note. It will populate in the list of notes on the left screen. Click on any note to view it. If you wish to delete it, click the trash icon for that note. If you wish to type another note, click the plus logo to add another. If you wish to view dev, open in your integrated terminal and enter "node server.js" or "nodemon server.js" if nodemon is installed. It will begin to listen on port 3001. Open "localhost:3001" and/or "localhost:3001/notes" in your browser or with API client such as Insomnia. <br>
 
-### **Screenshots**
+## **Screenshots**
 --- 
 Homepage <br>
 ![homepage example](./assets/screenshots/homepage.png)
 <br><br>
 Notes page <br>
-![notes page example](./assets/screenshots/notes.png)
+![notes page example](./assets/screenshots/gif.gif)
 
 <br>
 
 ## **Contributing** 
 ---
 This project is my own work with the help and starter code from the University of Washington Web Development Bootcamp. Contribute as you wish. Please contact me with questions. Directions for future development include modifying existing notes with HTML put requests. Additionally tests may be developed.
-
-<br>
-
-## **Tests** 
----
-No tests have been developed for this program.
 
 <br>
 
