@@ -71,10 +71,10 @@ To use the front-end app, click the "Get Started" button from the home screen. E
 ### **Screenshots**
 --- 
 Homepage <br>
-![homepage example](./assets/screenshots/homepage)
+![homepage example](./assets/screenshots/homepage.png)
 <br><br>
 Notes page <br>
-![notes page example](./assets/screenshots/notes)
+![notes page example](./assets/screenshots/notes.png)
 
 <br>
 
